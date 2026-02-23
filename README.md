@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Syncaura Frontend 🚀
 
 Syncaura Frontend is a modern, scalable **React-based frontend application** built using **Vite** and **Tailwind CSS**.
@@ -237,3 +238,6 @@ License information can be added if required.
 Developed and maintained by the **Syncaura Frontend Team**.
 
 ⭐ If you find this project useful, consider starring the repository!
+=======
+# Syncaura-Project
+>>>>>>> da932d111eb8fb8b79dea72b6cd6041d072b6e4e
